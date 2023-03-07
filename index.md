@@ -1,6 +1,6 @@
 # **Christian Trites**
 
-**(204) 793-2625 ▪** [**tritesc3@myumanitoba.ca**](mailto:tritesc3@myumanitoba.ca) **▪** [**LinkedIn - Christian Trites**](https://www.linkedin.com/in/christian-trites-6996a321a/)
+**(204) 793-2625 ▪** [**tritesc3@myumanitoba.ca**](mailto:tritesc3@myumanitoba.ca) **▪** **LinkedIn - [Christian Trites**](https://www.linkedin.com/in/christian-trites-6996a321a/)
 
 ## **Education**
 
