@@ -11,7 +11,7 @@ Pages, and Jekyll. (Windows)
   
 See _More Resources_ for install links and tutorials
 ## Instructions
-Blah Blah Blah
+To be filled in later...
 
 ### More Resources
 - Markdown: [Quick Tutorial](https://helloacm.com/markdown-markup-language-quick-tutorial/)
@@ -30,7 +30,14 @@ Blah Blah Blah
 ## FAQs
 1. Q. "Why should I use Markdown instead of a general word processor?"
 
-   A. Because Etter said so
-2. Q. "How do I (do something technical)"
+   A. Markdown allows a user to separate the content and style of their document. Using Markdown lets a user apply many different styles to the document through templates, while avoiding reworking the documents content.
+   
+2. Q. "How do I do I know if I have Ruby/Gems/Jekyll installed on my machine?"
 
-   A. Don't be silly and figure it out
+   A. Open up a Command Line Terminal and run the corresponding command:
+   
+   ruby -v  
+   gems -v  
+   jekyll -v  
+   
+   If it is installed, you computer will output the currently installed version
