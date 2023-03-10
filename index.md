@@ -56,7 +56,7 @@
 
 ## **Volunteer Experience**
 
-#### **St James AA Canadians** **- Coaching**	  	      	  October 2017 - March 2020
+#### **St James AA Canadians** **- Coaching**	  	      	  October 2016 - March 2020
 
 - Coached boys' Minor Hockey for four seasons, including a variety of age groups from 11-17 years old.
 - Practices ran multiple times a week where I developed, implemented, and designed drills tailored to the team’s/player’s strengths and weaknesses.
